@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?> 
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<?xml-stylesheet href="https://cromeoli.github.io/LMSGI-Trabajo11/biblioteca.xsl" type="text/xsl"?>
 <biblioteca> 
     <libro COD="1"> 
         <titulo>XML práctico</titulo> 
